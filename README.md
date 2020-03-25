@@ -7,7 +7,7 @@ Works on multiple layers, just use one image for each layer.
 
 ## Scene
 
-[![Scene](https://github.com/dands-salaun/LevelGeneratorTileMap/blob/master/Assets/Documentation/Scene.PNG.meta "Scene")](https://github.com/dands-salaun/LevelGeneratorTileMap/blob/master/Assets/Documentation/Scene.PNG.meta "Scene")
+[![Scene](https://github.com/dands-salaun/LevelGeneratorTileMap/blob/master/Assets/Documentation/Scene.PNG "Scene")](https://github.com/dands-salaun/LevelGeneratorTileMap/blob/master/Assets/Documentation/Scene.PNG "Scene")
 
 ## Overlapping Layers
 
